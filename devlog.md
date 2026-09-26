@@ -1,4 +1,4 @@
-# Devlog - Haiku Writer
+# Devlog - Language Writer (formerly Haiku Writer)
 
 ## 2026-02-23
 - set up the project with vite (to set up reactjs frontend)
@@ -33,3 +33,7 @@
 ## 2026-03-03
 
 - Was able to get the line counter working by accessing line height via getComputedStyle - I still need to do more research on what exactly this does
+
+## 2026-09-26 
+
+- Returning this project to build on it as a language learning tool. Planning to implement AI to translate inputs, providing explanations for the translations
